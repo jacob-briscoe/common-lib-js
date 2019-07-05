@@ -1,0 +1,14 @@
+{
+  "name": "common-lib-js",
+  "version": "1.0.0",
+  "description": "Library of Common JavaScript Functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jacob Briscoe",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
